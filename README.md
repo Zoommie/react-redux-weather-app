@@ -2,6 +2,9 @@
 
 <img src="/public/images/screenshot.png">
 
+### DEMO:
+http://zungdinh.com/weather-app/
+
 ### BUILD:
 React
 
